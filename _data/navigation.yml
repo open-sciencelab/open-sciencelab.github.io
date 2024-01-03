@@ -1,0 +1,83 @@
+- title: Home
+  url: "/"
+  side: left
+
+
+
+- title: "Publications"
+  url: "/publications/"
+  side: left
+  dropdown:
+  # - title: "Publications by date"
+  #   url: "/publications/"
+  # - title: "Publications by type"
+  #   url: "/publications_type/"
+  
+  #dropdown:
+  #- title: "Grid & Colors"
+  #  url: "/design/grid/"
+  #- title: "Typography"
+  #  url: "/design/typography/typography/"
+  #- title: "Page/Post"
+  #  url: "/design/page/"
+  #- title: "Post-Left-Sidebar"
+  #   url: "/design/post-left-sidebar/"
+  # - title: "Post-Right-Sidebar"
+  #   url: "/design/post-right-sidebar/"
+  # - title: "Page Full-Width"
+  #   url: "/design/page-fullwidth/"
+  # - title: "Blog-Page"
+  #   url: "/blog/"
+  # - title: "Video"
+  #   url: "/design/video/"
+  # - title: "Gallery"
+  #   url: "/design/gallery/"
+  # - title: "Portfolio"
+  #   url: "/design/portfolio/"
+
+
+- title: "Groups"
+  url: "/groups/"
+  side: left
+
+
+- title: Videos
+  url: "/videos/"
+  side: left
+
+
+- title: "Projects"
+  url: "/projects/"
+  side: left
+
+
+- title: Talks
+  url: "/talks/"
+  side: left
+  # dropdown:
+  # - title: "Blog Archive"
+  #   url: "/blog/archive/"
+
+# - title: Prof. Ouyang's Pubs
+#   url: "/resources/"
+#   side: left
+#   # dropdown:
+#   # - title: "Blog Archive"
+#   #   url: "/blog/archive/"
+
+
+- title: Recruitment
+  url: "/recruitment/"
+  side: left
+
+# - title: Student Demo
+#   url: "/student_demo/"
+#   side: left
+
+# - title: "Search"
+#   url: "/search/"
+#   side: right
+
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right

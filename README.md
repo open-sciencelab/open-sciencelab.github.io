@@ -1,2 +1,1 @@
-# openscience-lab.github.io
-Homepage for AI4Science group in Shanghai AI Lab.
+# Homepage for the AI4Science group in Shanghai AI Lab.
