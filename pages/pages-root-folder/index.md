@@ -33,10 +33,11 @@ widget2:
   video: '<iframe width="360" height="240" src="https://player.bilibili.com/player.html?aid=234574888&bvid=BV128411k7WD&cid=1298107862&p=1&autoplay=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
   text: "Towards General Human-centric Perception."
 widget3:
-  title: "Demo 3"
+  title: "FengWu: an AI-assisted Weather Forecast System."
   url: "https://youtu.be/CiKJuAH2U8I"
-  video: '<iframe src="https://www.youtube.com/embed/AL-8XCzRFo0" width="360" height="240" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
-  text: "Our team won the 2nd place in the pose-track challenge."
+  video: '<iframe src="https://www.youtube.com/embed/6XYljkoWs1s" width="360" height="240" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
+  text: "Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead."
+
 
 #
 # Use the call for action to show a button on the frontpage
@@ -74,9 +75,9 @@ homepage: true
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-      		{% include carousel_item.html  active="true"  image="images/ecoNAS.jpg" alt="an alt" title="This is a Title" caption="This is a caption." %}
+      		{% include carousel_item.html  active="true"  image="images/frontpage/fengwu.png" alt="banner-2" title="FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead" caption="An AI-assisted weather forecast system." %}
 
-          {% include carousel_item.html  image="images/Cheaper_Lunch.png" alt="an alt" title="This is a Title" caption="This is a caption." %}
+          {% include carousel_item.html  image="images/frontpage/rethk_DNA_bertPret.png" alt="banner-1" title="Rethinking the BERT-like Pretraining for DNA Sequences" caption="The proposed RandomMask gradually increases the task difficulty of BERT-like pretraining by expanding mask boundary." %}
         </div>
 
         <!-- Left and right controls -->
