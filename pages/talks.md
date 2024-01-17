@@ -27,8 +27,8 @@ permalink: "/talks/"
 + Speaker: 罗京佳
 + Inviter: AI4Earth-苏锐
 + Time:    2023.11
-+ Link:    https://www.shlab.org.cn/event/detail/35
-+ Video:   https://aicarrier.feishu.cn/file/AH6LbX6epoim0DxACwRcEi3PnMd
++ Link:    [https://www.shlab.org.cn/event/detail/35](https://www.shlab.org.cn/event/detail/35)
++ Video:   [https://aicarrier.feishu.cn/file/AH6LbX6epoim0DxACwRcEi3PnMd](https://aicarrier.feishu.cn/file/AH6LbX6epoim0DxACwRcEi3PnMd)
 
 ---
 
@@ -38,8 +38,8 @@ permalink: "/talks/"
 + Speaker: 高欣
 + Inviter: AI4Biology&Agriculture-高志强
 + Time:    2023.12
-+ Link:    https://www.shlab.org.cn/event/detail/39
-+ Video:   https://aicarrier.feishu.cn/file/QXpQbr64boMC1dxYO6ncDP1insg
++ Link:    [https://www.shlab.org.cn/event/detail/39](https://www.shlab.org.cn/event/detail/39)
++ Video:   [https://aicarrier.feishu.cn/file/QXpQbr64boMC1dxYO6ncDP1insg](https://aicarrier.feishu.cn/file/QXpQbr64boMC1dxYO6ncDP1insg)
 
 ---
 
