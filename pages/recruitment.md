@@ -9,7 +9,6 @@ header:
 permalink: "/recruitment/"
 ---
 
-<img src="../guidelines/guideline_chinese.pdf" width="600">
 <object data="../guidelines/guideline_chinese.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../guidelines/guideline_chinese.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../guidelines/guideline_chinese.pdf">Download PDF</a>.</p>
