@@ -9,7 +9,12 @@ header:
 permalink: "/recruitment/"
 ---
 
-<img src="../guidelines/recruit.png" width="600">
+<img src="../guidelines/guideline_chinese.pdf" width="600">
+<object data="../guidelines/guideline_chinese.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../guidelines/guideline_chinese.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../guidelines/guideline_chinese.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 We are always recruiting **M.Phil. or Ph.D.** students with strong academic background and solid programming skill. Before you apply, please first read the [**Application Guideline for AI4Science Group**](/guidelines/guideline_eng.pdf). For Chinese students, please refer to [**AI4Science Group招生简章**](/guidelines/ad.pdf) and [**AI4Science Group申请须知**](/guidelines/guideline_chinese.pdf) and [**关于悉尼大学奖学金申请**](/guidelines/scholarship_chi.pdf). You can send an email to [**sigma.usyd[at]gmail.com**](mailto:sigma.usyd@gmail.com) after you have read the guidelines carefully. 
 
