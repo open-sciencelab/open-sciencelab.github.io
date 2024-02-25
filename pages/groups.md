@@ -18,7 +18,7 @@ permalink: "/groups/"
 
 
 ## Group - AI4Biology
-+ Our objective is to design a general pretraining model of DNA/RNA/protein data for more than 20 biology downstream tasks
++ Our objective is to revolutionize the understanding and application of biological systems, ranging from molecular to multi-omics levels. We aim to tackle critical challenges in DNA, RNA, and proteins through the integration of biology data and breakthrough artificial intelligence (AI) technologies. By harnessing the power of AI, we strive to unlock new insights into complex biological processes, improve disease diagnosis and treatment, enhance crop yields and resilience against climate change, and preserve natural ecosystems. Our objectives include the development of predictive models for gene expression and cross-species prediction, RNA structure and function prediction, AI-driven high-throughout protein sequencing and multi-omics analysis.
 
 
 ---
