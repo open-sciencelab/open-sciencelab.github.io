@@ -12,7 +12,7 @@ permalink: "/groups/"
 
 # Group - AI4Science
 
-+ AI for Science team is focused on the fields of physics, chemistry, biology, earth, and other sciences.Through in-depth research on the basic theories of various disciplines, combined with the latest artificial intelligence theories, we explore research paradigms for AI-driven major scientific issues and build an open ecological platform for cross-disciplinary data and algorithms from microscopic to macroscopic natural science, enabling artificial intelligence to be closely combined with natural science. Through basic and applied research, we build a complete system from underlying innovation to industrial implementation, accelerate the penetration and implementation of artificial intelligence in fields such as chemistry, new materials, meteorology, and drug research and development, and empower the development of various industries.
++ AI for Science team is focused on the fields of physics, chemistry, biology, earth, and other sciences. Through in-depth research on the basic theories of various disciplines, combined with the latest artificial intelligence theories, we explore research paradigms for AI-driven major scientific issues and build an open ecological platform for cross-disciplinary data and algorithms from microscopic to macroscopic natural science, enabling artificial intelligence to be closely combined with natural science. Through basic and applied research, we build a complete system from underlying innovation to industrial implementation, accelerate the penetration and implementation of artificial intelligence in fields such as chemistry, new materials, meteorology, and drug research and development, and empower the development of various industries.
 
 ---
 
