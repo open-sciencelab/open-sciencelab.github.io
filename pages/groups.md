@@ -18,8 +18,7 @@ permalink: "/groups/"
 
 
 ## Group - AI4Biology
-+ Our objective is to revolutionize the understanding and application of biological systems, ranging from molecular to multi-omics levels. We aim to tackle critical challenges in DNA, RNA, and proteins through the integration of biology data and breakthrough artificial intelligence (AI) technologies. By harnessing the power of AI, we strive to unlock new insights into complex biological processes, improve disease diagnosis and treatment, enhance crop yields and resilience against climate change, and preserve natural ecosystems. Our objectives include the development of predictive models for gene expression and cross-species prediction, RNA structure and function prediction, AI-driven high-throughout protein sequencing and multi-omics analysis.
-
++ Our objective is to revolutionize the understanding and application of biological systems, ranging from molecular to multi-omics levels. We aim to tackle critical challenges in DNA, RNA, and proteins through the integration of biology data and breakthrough artificial intelligence (AI) technologies. By harnessing the power of AI, we strive to unlock new insights into complex biological processes, improve disease diagnosis and treatment, enhance crop yields and resilience against climate change, and preserve natural ecosystems. Our objectives include the development of predictive models for gene expression and cross-species prediction, RNA structure and function prediction, AI-driven high-throughout protein sequencing, and multi-omics analysis.
 
 ---
 
@@ -27,19 +26,17 @@ permalink: "/groups/"
 ## Group - AI4PhysicalScience
 + Research:
 
-
 ---
 
 
 ## Group - AI4Earth
 + Our objective is to enhance understanding of Earth system processes, encompassing the atmosphere, land surface, and oceans, among other spheres. This knowledge aims to better address significant challenges, including natural disasters such as weather events and earthquakes, as well as major issues like climate change. Employing superior data and cutting-edge artificial intelligence technologies, we aspire to perceive and adapt to global challenges in weather, climate, geology, and the environment. This includes advancements in short-term, medium-term, and long-term weather forecasting, climate predictions, earthquake monitoring and early warnings, as well as carbon emissions and pollution monitoring. Through these efforts, we envision a more resilient and proactive approach to safeguarding our planet.
 
-
 ---
 
 
 ## Group - AI4Astronomy
-+ Research:
++ AI4Astronomy aims to use artificial intelligence technology to solve key problems and challenges in astronomy. The team focuses on developing and applying AI methods to improve understanding of the universe, from the formation and development of stars and planets to the large-scale distribution of cosmic structure. By combining advanced machine learning algorithms with large amounts of astronomical data, AI4Astronomy aims to accelerate research progress in cosmology, stellar physics, planetary science and other fields. Specifically, our goals include using AI technology to conduct in-depth analysis of remote sensing data to identify and classify celestial objects, predict cosmic events, and test and improve astronomical theories by simulating the evolution of the universe. In addition, the team is also committed to developing intelligent tools to support astronomical observation, data processing and analysis, lower the threshold for complex data processing, and improve scientific research efficiency. AI4Astronomy also aims to promote interdisciplinary collaboration, combining astronomy with the latest research results in computer science, data science and other fields to jointly explore the mysteries of the universe. By establishing an open data and algorithm platform, we encourage researchers around the world to share data, tools and findings, and promote the accumulation and innovation of scientific knowledge.
 
 ---
 
