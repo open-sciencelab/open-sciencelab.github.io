@@ -17,6 +17,6 @@
 
 
 ### Sources:
-**网站信息知识库:** https://aicarrier.feishu.cn/wiki/space/7307470434847866883?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home
-**论文/项目/视频更新链接:** https://aicarrier.feishu.cn/base/JaMnb6s8laatOYst2ymcBIxunjb?from=from_copylink
-**博士招生说明:** https://www.overleaf.com/6948266629fzcxqtggmycg#4189f1
+**网站信息知识库:** https://aicarrier.feishu.cn/wiki/space/7307470434847866883?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home  
+**论文/项目/视频更新链接:** https://aicarrier.feishu.cn/base/JaMnb6s8laatOYst2ymcBIxunjb?from=from_copylink  
+**博士招生说明:** https://www.overleaf.com/6948266629fzcxqtggmycg#4189f1  
