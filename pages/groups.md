@@ -14,6 +14,8 @@ permalink: "/groups/"
 
 + AI for Science team is focused on the fields of physics, chemistry, biology, earth, and other sciences. Through in-depth research on the basic theories of various disciplines, combined with the latest artificial intelligence theories, we explore research paradigms for AI-driven major scientific issues and build an open ecological platform for cross-disciplinary data and algorithms from microscopic to macroscopic natural science, enabling artificial intelligence to be closely combined with natural science. Through basic and applied research, we build a complete system from underlying innovation to industrial implementation, accelerate the penetration and implementation of artificial intelligence in fields such as chemistry, new materials, meteorology, and drug research and development, and empower the development of various industries.
 
++ AI for Science团队专注于物理学、化学、生物学、地球科学和其他科学领域。通过对各学科基础理论的深入研究，结合最新的人工智能理论，我们探索以人工智能驱动的重大科学问题的研究范式，并构建一个跨学科的、从微观到宏观自然科学的开放生态平台，使人工智能与自然科学紧密结合。通过基础和应用研究，我们建立了一个从基础创新到产业实施的完整系统，加速了人工智能在化学、新材料、气象和药物研发等领域的渗透和应用，推动各行业的发展。
+
 ---
 
 
@@ -31,18 +33,18 @@ permalink: "/groups/"
 
 ## Group - AI4PhysicalScience
 + We strive to leverage state-of-the-art AI technology for breakthroughs in areas of physical science such as physics and chemistry with a specific focus on:
-- Scientific Large Language Models (LLMs): Develop large language models equipped with scientific knowledge and create intelligent scientific research robots centered on language models, aiming at providing strong support for human scientists, promoting new materials discovery, and driving innovative research.
-- Literature Retrieval: Develop a scientific literature retrieval system surpassing Google Scholar by leveraging techniques like large language models and structured tools for scientific literature.
-- Scientific Computing: Enable efficient scientific research through modeling and simulating physical phenomena and predicting results from experiments. Specific research interests include predictions of molecular properties, spectral characteristics, molecular simulations, etc.
-- Quantum Computing: Developing quantum error correction algorithms based on machine learning. Developing efficient quantum algorithm simulations based on classical computers.
-- Mathematics: Investigate the application of large language models in assisting mathematical research; formal proof of mathematical theorems.
+  - Scientific Large Language Models (LLMs): Develop large language models equipped with scientific knowledge and create intelligent scientific research robots centered on language models, aiming at providing strong support for human scientists, promoting new materials discovery, and driving innovative research.
+  - Literature Retrieval: Develop a scientific literature retrieval system surpassing Google Scholar by leveraging techniques like large language models and structured tools for scientific literature.
+  - Scientific Computing: Enable efficient scientific research through modeling and simulating physical phenomena and predicting results from experiments. Specific research interests include predictions of molecular properties, spectral characteristics, molecular simulations, etc.
+  - Quantum Computing: Developing quantum error correction algorithms based on machine learning. Developing efficient quantum algorithm simulations based on classical computers.
+  - Mathematics: Investigate the application of large language models in assisting mathematical research; formal proof of mathematical theorems.
 
 + 我们致力于利用最先进的AI技术在物理、化学等物质科学领域取得突破性进展。具体包括：
-- 大语言模型：研究具备科学知识的大语言模型，开发以语言模型为中枢的智能科学研究机器人，实现对人类科学家的强力辅助，促进新材料发现，推动研究革新。
-- 文献检索：基于大语言模型、科学文献结构化工具等技术实现超越谷歌学术的科学文献检索系统。
-- 科学计算：通过建立模型模拟物理现象，预测实验或观测结果，从而更高效地进行研究和理论验证。具体研究方向包括分子性质预测、谱图性质预测、分子模拟等。
-- 量子计算：开发基于人工智能的量子纠错算法。开发基于经典计算机的高效量子算法模拟。
-- 数学证明：探索使用大语言模型帮助数学研究，开展数学定理形式化证明相关研究。
+  - 大语言模型：研究具备科学知识的大语言模型，开发以语言模型为中枢的智能科学研究机器人，实现对人类科学家的强力辅助，促进新材料发现，推动研究革新。
+  - 文献检索：基于大语言模型、科学文献结构化工具等技术实现超越谷歌学术的科学文献检索系统。
+  - 科学计算：通过建立模型模拟物理现象，预测实验或观测结果，从而更高效地进行研究和理论验证。具体研究方向包括分子性质预测、谱图性质预测、分子模拟等。
+  - 量子计算：开发基于人工智能的量子纠错算法。开发基于经典计算机的高效量子算法模拟。
+  - 数学证明：探索使用大语言模型帮助数学研究，开展数学定理形式化证明相关研究。
 ---
 
 
@@ -65,7 +67,9 @@ permalink: "/groups/"
 ## Group - AI43D
 + The objective for general 3D tasks encompasses accurately modeling, understanding, and manipulating the three-dimensional aspects of the physical world through computational methods. These tasks aim to reconstruct, interpret, and simulate the geometry, appearance, and dynamics of objects and environments from data captured by various sensors, such as cameras and LiDAR. Applications range from virtual and augmented reality, robotics, autonomous navigation, and cultural heritage preservation to medical imaging and product design. The overarching goal is to bridge the gap between the digital and physical realms, enabling machines to perceive and interact with the three-dimensional world as humans do, thereby enhancing the capabilities of technology to assist, augment, and automate tasks in diverse domains.
 
-+ 三维任务的目标包括通过计算方法准确地建模、理解和操纵物理世界的三维特征。这些任务旨在重建、解释和模拟从各种传感器（如摄像机和激光雷达）捕获的数据中的对象和环境的几何形状、外观和动态。应用领域包括虚拟和增强现实、机器人技术、自主导航、文化遗产保护、医学成像和产品设计等。总体目标是弥合数字与物理领域之间的差距，使机器能够像人类一样感知和与三维世界互动，从而增强技术在多个领域协助、增强和自动化任务的能力。
++ 三维任务的目标包括通过计算方法准确地建模、理解和操纵物理世界的三维特征。这些任务旨在重建、解释和模拟从各种传感器（如摄像机和激光雷达）捕获的数据中的对象和环境的几何形状、外观和动态。应用领域包括虚拟和增强现实、机器人技术、自主导航、文化遗产保护、医学成像和产品设计等。总体目标是弥合数字与物理领域之间的差距，使机器能够像人类一样感知和与三维世界互动，从而增强技术在多个领域协助、增强和自动化任务的能力。 
+
+![1](/groups/AI43D.png)
 
 ---
 
@@ -79,10 +83,10 @@ Multimodal large-scale pedestrian re-identification: Researching large-scale ped
 
 
 + 我们致力于让AI理解人类以及他们与世界的交互，旨在让机器不仅模仿人类的行为，而且真正学习到人类对世界的感知和理解方式，从而掌握“人类智能”。具体研究领域包括：
-- 以人体为中心的感知、生成任务：基于自监督学习、大语言模型、扩散模型等技术建立统一的感知生成一体化的基础模型，实现高精度的多模态人体感知、人体重建、人体生成，解决虚拟现实、智慧体育等领域的关键问题。
-- 类人世界模型：基于世界模型的技术路线，让模型通过观察人类与世界的交互方式，学习到人类级别的感知和行动能力，促进虚拟助手、具身智能的进一步发展。
-- 多模态人体视频生成：研究由文字、人体姿态序列等多种模态控制的人体视频生成，提升AI在商业设计、视频制作等方面的应用潜力。
-- 多模态大规模行人重识别：研究文字、换衣、红外等多模态场景下的大规模行人重识别方案，设计统一的模型完成任意条件下的行人检索，为城市安全、智能交通系统、零售分析等多个领域提供价值。
+  - 以人体为中心的感知、生成任务：基于自监督学习、大语言模型、扩散模型等技术建立统一的感知生成一体化的基础模型，实现高精度的多模态人体感知、人体重建、人体生成，解决虚拟现实、智慧体育等领域的关键问题。
+  - 类人世界模型：基于世界模型的技术路线，让模型通过观察人类与世界的交互方式，学习到人类级别的感知和行动能力，促进虚拟助手、具身智能的进一步发展。
+  - 多模态人体视频生成：研究由文字、人体姿态序列等多种模态控制的人体视频生成，提升AI在商业设计、视频制作等方面的应用潜力。
+  - 多模态大规模行人重识别：研究文字、换衣、红外等多模态场景下的大规模行人重识别方案，设计统一的模型完成任意条件下的行人检索，为城市安全、智能交通系统、零售分析等多个领域提供价值。
 
 
 ---
