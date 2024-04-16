@@ -71,6 +71,26 @@ permalink: "/groups/"
 
 ![1](/groups/AI43D.png)
 
+![图片](/groups/AI43D.png)
+
+<div class="row">
+	<div class="row">
+		<h3 class="medium-12">Alumni</h3>
+		<br/>
+	</div>
+
+    <div class="row">
+    {% include member.html photo="../images/groups/AI43D.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
+
+    {% include member.html photo="../images/people/geng_zhan.jpg" name="Geng Zhan" title="M.Phil. (Graduated in Dec. 2019)" %}
+
+    {% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil. (Graduated in Dec. 2019)" %}
+
+    {% include member.html name="" title="" %}
+    </div>
+
+</div>
+
 ---
 
 
