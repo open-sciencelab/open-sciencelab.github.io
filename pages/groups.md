@@ -45,6 +45,7 @@ permalink: "/groups/"
   - 科学计算：通过建立模型模拟物理现象，预测实验或观测结果，从而更高效地进行研究和理论验证。具体研究方向包括分子性质预测、谱图性质预测、分子模拟等。
   - 量子计算：开发基于人工智能的量子纠错算法。开发基于经典计算机的高效量子算法模拟。
   - 数学证明：探索使用大语言模型帮助数学研究，开展数学定理形式化证明相关研究。
+  
 ---
 
 
@@ -71,26 +72,6 @@ permalink: "/groups/"
 
 ![1](/groups/AI43D.png)
 
-![图片](/groups/AI43D.png)
-
-<div class="row">
-	<div class="row">
-		<h3 class="medium-12">Alumni</h3>
-		<br/>
-	</div>
-
-    <div class="row">
-    {% include member.html photo="../images/groups/AI43D.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
-
-    {% include member.html photo="../images/people/geng_zhan.jpg" name="Geng Zhan" title="M.Phil. (Graduated in Dec. 2019)" %}
-
-    {% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil. (Graduated in Dec. 2019)" %}
-
-    {% include member.html name="" title="" %}
-    </div>
-
-</div>
-
 ---
 
 
@@ -101,13 +82,11 @@ Humanoid world models: Developing human-level perception and action capabilities
 Multimodal human AIGC: Researching human AIGC controlled by text, human posture sequences, and other modalities, enhancing AI's application paradigms in commercial design, video production, etc.
 Multimodal large-scale pedestrian re-identification: Researching large-scale pedestrian re-identification solutions in multimodal scenarios such as text descriptions, clothing changing, infrared videos, etc., designing a unified model to complete pedestrian retrieval under any conditions, providing value to urban safety, intelligent transportation systems, retail analysis, and more.
 
-
 + 我们致力于让AI理解人类以及他们与世界的交互，旨在让机器不仅模仿人类的行为，而且真正学习到人类对世界的感知和理解方式，从而掌握“人类智能”。具体研究领域包括：
   - 以人体为中心的感知、生成任务：基于自监督学习、大语言模型、扩散模型等技术建立统一的感知生成一体化的基础模型，实现高精度的多模态人体感知、人体重建、人体生成，解决虚拟现实、智慧体育等领域的关键问题。
   - 类人世界模型：基于世界模型的技术路线，让模型通过观察人类与世界的交互方式，学习到人类级别的感知和行动能力，促进虚拟助手、具身智能的进一步发展。
   - 多模态人体视频生成：研究由文字、人体姿态序列等多种模态控制的人体视频生成，提升AI在商业设计、视频制作等方面的应用潜力。
   - 多模态大规模行人重识别：研究文字、换衣、红外等多模态场景下的大规模行人重识别方案，设计统一的模型完成任意条件下的行人检索，为城市安全、智能交通系统、零售分析等多个领域提供价值。
-
 
 ---
 
