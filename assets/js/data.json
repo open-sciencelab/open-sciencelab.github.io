@@ -1,10 +1,8 @@
 {
-  "journals": [
+  "AI43D 团队": [
     {
-      "title": "AutoPedestrian: an Automatic Data Augmentation and Loss Function Search Scheme for Pedestrian Detection",
+      "title": "3D视觉团队",
       "image": "/images/groups/AI43D.png",
-      "authors": "Y. Tang, B. Li, M. Liu, B. Chen, Y. Wang, W. Ouyang.",
-      "publisher": "IEEE Trans. Image Process. (TIP), accepted Jul., 2021.",
       "link_group": "/people"
     },
     {
