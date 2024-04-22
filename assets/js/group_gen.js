@@ -194,7 +194,7 @@ for (pubitem of journal_data.reverse()) {
 //Conference list generation
 let conference_list = document.getElementById("conference_list");
 for (pubitem of conference_data.reverse()) {
-  conference_list.prepend(conferencePubItemConstructor(pubitem))
+  conference_list.prepend(journalPubItemConstructor(pubitem))
 }
 
 
