@@ -23,7 +23,7 @@ readTextFile('https://raw.githubusercontent.com/openscience-lab/openscience-lab.
 
 function journalPubItemConstructor(pubitem) {
   function filter_mandatory_members(value, index, arr) {
-    let mandatory_members = ["authors", "title", "publisher", "image", "image_link"];
+    let mandatory_members = ["authors", "title", "publisher", "image", "link_group"];
     return !mandatory_members.includes(value);
   }
   let all_members = Object.keys(pubitem);
@@ -35,7 +35,7 @@ function journalPubItemConstructor(pubitem) {
   <div>
     <div class="row">
       <div class="small-4 column">
-          <a href="IMAGE_LINK">
+          <a href="LINK_GROUP">
             <img src="IMAGE" style="width: 100%">
           </a>
       </div>
@@ -70,7 +70,7 @@ function journalPubItemConstructor(pubitem) {
     .replace("TITLE", pubitem.title)
     .replace("JOURNAL", pubitem.publisher)
     .replace("IMAGE", pubitem.image)
-    .replace("IMAGE_LINK", pubitem.image_link)
+    .replace("LINK_GROUP", pubitem.link_group)
     .replace("ADDITIONAL_LINKS", additional_links)
     .replace(
       `<img style="width: 336Px;" alt="Wanli" src="" width="336px" height="200px">`,
