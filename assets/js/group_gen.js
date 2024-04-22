@@ -100,10 +100,10 @@ for (pubitem of earth_data.reverse()) {
 }
 
 //life science list generation
-let lifescience_list = document.getElementById("lifescience_list");
-for (pubitem of lifescience_data.reverse()) {
-  lifescience_list.prepend(journalPubItemConstructor(pubitem))
-}
+// let lifescience_list = document.getElementById("lifescience_list");
+// for (pubitem of lifescience_data.reverse()) {
+//   lifescience_list.prepend(journalPubItemConstructor(pubitem))
+// }
 
 //physic science list generation
 let physicscience_list = document.getElementById("physicscience_list");
