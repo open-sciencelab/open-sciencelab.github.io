@@ -51,9 +51,7 @@ function journalPubItemConstructor(pubitem) {
       </div>
       <div class="small-8 column">
         <p>
-         <a href="LINK_GROUP"> 
-            <b>TITLE</b> 
-          </a>
+          <b> <a href="LINK_GROUP"> TITLE </a> </b> 
           <br>
           ADDITIONAL_LINKS
           <br>
