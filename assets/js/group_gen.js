@@ -101,7 +101,6 @@ for (pubitem of earth_data.reverse()) {
 
 //life science list generation
 let lifescience_list = document.getElementById("lifescience_list");
-console.log(lifescience_data)
 for (pubitem of lifescience_data.reverse()) {
    lifescience_list.prepend(journalPubItemConstructor(pubitem))
 }
