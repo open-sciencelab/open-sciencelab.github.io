@@ -6,7 +6,7 @@ subheadline: ""
 teaser:
 header:
   image_fullwidth:
-permalink: "/groups/"
+permalink: "/groups_all/"
 ---
 
 
