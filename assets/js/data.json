@@ -14,11 +14,8 @@
     },
     {
       "title": "Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving",
-      "image": "https://wlouyang.github.io/imgs/Temporal-Channel_Transformer_for_3D_Lidar-Based_Video_Object_Detection_in_Autonomous_Driving.jpg",
-      "authors": "xxxx",
-      "publisher": "IEEE Trans. Circuits and System for Video Technology (CSVT), Accepted May, 2021",
-      "link_group": "/groups_3d",
-      "full_text": "https://arxiv.org/pdf/2011.13628.pdf"
+      "image": "/pages/groups/AI43D.png",
+      "link_group": "/groups_3d"
     },
     {
       "title": "Modeling Sub-Actions for Weakly Supervised Temporal Action Localization",
