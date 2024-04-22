@@ -27,13 +27,6 @@
       "link_group": "/groups_astronomy"
     }
   ],
-  "human": [ 
-    {
-      "title": "以人为中心的视觉计算团队简介",
-      "image": "/pages/groups/human.png",
-      "link_group": "/groups_human"
-    }
-  ],
   "ai4air": [ 
     {
       "title": "空气动力学简介",
@@ -46,6 +39,13 @@
       "title": "通用3D视觉团队简介",
       "image": "/pages/groups/AI43D.png",
       "link_group": "/groups_3d"
+    }
+  ],
+  "human": [ 
+    {
+      "title": "以人为中心的视觉计算团队简介",
+      "image": "/pages/groups/human.png",
+      "link_group": "/groups_human"
     }
   ]
 }
