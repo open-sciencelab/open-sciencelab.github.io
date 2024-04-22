@@ -35,7 +35,7 @@ function journalPubItemConstructor(pubitem) {
   <div>
     <div class="row">
       <div class="small-4 column">
-          <a href="https://google.com">
+          <a href="IMAGE_LINK">
             <img src="IMAGE" style="width: 100%">
           </a>
       </div>
@@ -70,6 +70,7 @@ function journalPubItemConstructor(pubitem) {
     .replace("TITLE", pubitem.title)
     .replace("JOURNAL", pubitem.publisher)
     .replace("IMAGE", pubitem.image)
+    .replace("IMAGE_LINK", pubitem.image_link)
     .replace("ADDITIONAL_LINKS", additional_links)
     .replace(
       `<img style="width: 336Px;" alt="Wanli" src="" width="336px" height="200px">`,
