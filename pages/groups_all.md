@@ -14,7 +14,6 @@ permalink: "/groups_all/"
 # Journal Publications
 <div id="journal_list"></div>
 
-
 <br>
 
 
