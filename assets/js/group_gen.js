@@ -16,7 +16,7 @@ function readTextFile(file, callback) {
 let journal_data;
 let earth_data;
 let lifescience_data;
-let physicsciences_data;
+let physicscience_data;
 let astronomy_data;
 let human_data;
 let ai4air_data;
@@ -25,7 +25,7 @@ readTextFile('/assets/js/data.json', function(text){
   journal_data = data.journals;
   earth_data = data.AI4earth;
   lifescience_data = data.lifesciences;
-  physicsciences_data = data.physicsciences;
+  physicscience_data = data.physicsciences;
   astronomy_data = data.astronomy;
   human_data = data.human;
   ai4air_data = data.ai4air;
