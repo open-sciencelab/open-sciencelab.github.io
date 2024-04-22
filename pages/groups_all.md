@@ -21,4 +21,4 @@ permalink: "/groups_all/"
 # Top-Tier Conference Publications
 <div id="conference_list"></div>
 
-<script src="../assets/js/pub_gen.js">
+<script src="../assets/js/group_gen.js">
