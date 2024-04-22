@@ -9,28 +9,28 @@
   "AI4earth": [ 
     {
       "title": "地球科学团队简介",
-      "image": "/pages/groups/AI43D.png",
+      "image": "/pages/groups/earth.jpg",
       "link_group": "/groups_earth"
     }
   ],
   "lifesciences": [ 
     {
       "title": "生命科学团队简介",
-      "image": "/pages/groups/human.png",
+      "image": "/pages/groups/lifescience.jpg",
       "link_group": "/groups_lifescience"
     }
   ],
   "physicsciences": [ 
     {
       "title": "物质科学团队简介",
-      "image": "/pages/groups/human.png",
+      "image": "/pages/groups/physicsciences.jpg",
       "link_group": "/groups_physics"
     }
   ],
   "astronomy": [ 
     {
       "title": "天文学团队简介",
-      "image": "/pages/groups/human.png",
+      "image": "/pages/groups/astronomy.jpg",
       "link_group": "/groups_astronomy"
     }
   ],
@@ -44,7 +44,7 @@
   "ai4air": [ 
     {
       "title": "空气动力学简介",
-      "image": "/pages/groups/human.png",
+      "image": "/pages/groups/ai4air.png",
       "link_group": "/groups_air"
     }
   ]
