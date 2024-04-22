@@ -18,7 +18,7 @@ permalink: "/groups_all/"
 <br>
 
 
-<!-- # Top-Tier Conference Publications
-<div id="conference_list"></div> -->
+# Top-Tier Conference Publications
+<div id="conference_list"></div>
 
 <script src="../assets/js/group_gen.js">
