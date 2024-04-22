@@ -46,7 +46,7 @@ permalink: "/groups_all/"
 <br>
 
 # 空气动力学团队
-<div id="human_list"></div>
+<div id="ai4air_list"></div>
 
 <br>
 
