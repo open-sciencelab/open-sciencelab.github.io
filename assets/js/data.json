@@ -1,5 +1,5 @@
 {
-  "journals": [
+  "journals": [ 
     {
       "title": "AutoPedestrian: an Automatic Data Augmentation and Loss Function Search Scheme for Pedestrian Detection",
       "image": "",
@@ -17,7 +17,7 @@
       "image": "https://wlouyang.github.io/imgs/Temporal-Channel_Transformer_for_3D_Lidar-Based_Video_Object_Detection_in_Autonomous_Driving.jpg",
       "authors": "xxxx",
       "publisher": "IEEE Trans. Circuits and System for Video Technology (CSVT), Accepted May, 2021",
-      "link_group": "https://www.google.com",
+      "link_group": "/groups_3d",
       "full_text": "https://arxiv.org/pdf/2011.13628.pdf"
     },
     {
@@ -25,7 +25,7 @@
       "image": "https://wlouyang.github.io/imgs/Modeling_Sub-Actions_for_Weakly_Supervised_Temporal_Action_Localization.jpg",
       "authors": "L. Huang, Y. Huang, W. Ouyang, and L. Wang",
       "publisher": "IEEE Trans. Image Process. (TIP), 2021",
-      "link_group": "https://www.google.com",
+      "link_group": "/groups_lifescience",
       "full_text": "https://www.google.com"
     }
   ]

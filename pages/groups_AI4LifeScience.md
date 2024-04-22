@@ -6,17 +6,9 @@ subheadline: ""
 teaser:
 header:
   image_fullwidth:
-permalink: "/groups/"
+permalink: "/groups_lifescience/"
 ---
 
-
-# AI4Science 团队介绍
-
-+ AI for Science team is focused on the fields of physics, chemistry, biology, earth, and other sciences. Through in-depth research on the basic theories of various disciplines, combined with the latest artificial intelligence theories, we explore research paradigms for AI-driven major scientific issues and build an open ecological platform for cross-disciplinary data and algorithms from microscopic to macroscopic natural science, enabling artificial intelligence to be closely combined with natural science. Through basic and applied research, we build a complete system from underlying innovation to industrial implementation, accelerate the penetration and implementation of artificial intelligence in fields such as chemistry, new materials, meteorology, and drug research and development, and empower the development of various industries.
-
-+ AI for Science团队专注于物理学、化学、生物学、地球科学和其他科学领域。通过对各学科基础理论的深入研究，结合最新的人工智能理论，我们探索以人工智能驱动的重大科学问题的研究范式，并构建一个跨学科的、从微观到宏观自然科学的开放生态平台，使人工智能与自然科学紧密结合。通过基础和应用研究，我们建立了一个从基础创新到产业实施的完整系统，加速了人工智能在化学、新材料、气象和药物研发等领域的渗透和应用，推动各行业的发展。
-
----
 
 
 ## Group - AI4LifeScience 
