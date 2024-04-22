@@ -12,7 +12,8 @@ permalink: "/groups_all/"
 
 
 # Journal Publications
-<div id="AI43D_list"></div>
+<div id="journal_list"></div>
+
 
 <br>
 
