@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 show_meta: false
 title: "Group"
 subheadline: ""
