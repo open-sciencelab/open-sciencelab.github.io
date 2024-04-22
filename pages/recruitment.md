@@ -14,7 +14,7 @@ permalink: "/recruitment/"
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../guidelines/recruit_2024.png">Download PDF</a>.</p>
     </embed>
 </object> -->
-<img src="../guidelines/recruit_2024.png" width="800">
+<img src="../guidelines/recruit_2024_04.png" width="800">
 
 We are always recruiting **M.Phil. or Ph.D.** students with strong academic background and solid programming skill. Before you apply, please first read the [**Application Guideline for AI4Science Group**](/guidelines/guideline_eng.pdf). For Chinese students, please refer to [**AI4Science Group招生简章**](/guidelines/ad.pdf) and [**AI4Science Group申请须知**](/guidelines/recruit_2024.png). You can send an email to [**wanli.ouyang[at]sydney.edu.au**](mailto:wanli.ouyang@sydney.edu.au) after you have read the guidelines carefully.
 
