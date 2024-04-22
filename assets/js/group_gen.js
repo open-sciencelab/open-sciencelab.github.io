@@ -23,7 +23,7 @@ readTextFile('https://raw.githubusercontent.com/openscience-lab/openscience-lab.
 
 function journalPubItemConstructor(pubitem) {
   function filter_mandatory_members(value, index, arr) {
-    let mandatory_members = ["authors", "title", "publisher", "image", "full_text"];
+    let mandatory_members = ["authors", "title", "publisher", "image", "image_link"];
     return !mandatory_members.includes(value);
   }
   let all_members = Object.keys(pubitem);
