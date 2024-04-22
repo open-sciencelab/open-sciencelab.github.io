@@ -31,7 +31,7 @@ function journalPubItemConstructor(pubitem) {
   let obj;
   obj = document.createElement("template");
   let additional_link_template = `[<a class="aLink" href="LINK_TO_REPLACE" >TEXT_TO_REPLACE</a>]`;
-  let html_template = `
+  let html_template = ` 
   <div>
     <div class="row">
       <div class="small-4 column">
@@ -42,10 +42,6 @@ function journalPubItemConstructor(pubitem) {
       <div class="small-8 column">
         <p>
           <b>TITLE</b>
-          <br>
-          AUTHORS
-          <br> 
-          JOURNAL
           <br>
           ADDITIONAL_LINKS
           <br>
