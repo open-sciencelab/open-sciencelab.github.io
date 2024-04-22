@@ -15,10 +15,12 @@ function readTextFile(file, callback) {
 }
 let journal_data;
 let conference_data;
+let lifescience_data;
 readTextFile('https://raw.githubusercontent.com/openscience-lab/openscience-lab.github.io/main/assets/js/data.json', function(text){
   let data = JSON.parse(text);
   journal_data = data.journals;
   conference_data = data.conferences;
+  lifescience_data = data.lifesciences;
 });
 
 function journalPubItemConstructor(pubitem) {
@@ -189,9 +191,17 @@ for (pubitem of journal_data.reverse()) {
   journal_list.prepend(journalPubItemConstructor(pubitem))
 }
 
+//Conference list generation
 let conference_list = document.getElementById("conference_list");
 for (pubitem of conference_data.reverse()) {
   conference_list.prepend(conferencePubItemConstructor(pubitem))
 }
 
-//Conference list generation
+
+
+
+//lifescience list generation
+let lifescience_list = document.getElementById("lifescience_list");
+for (pubitem of lifescience_data.reverse()) {
+  lifescience_list.prepend(journalPubItemConstructor(pubitem))
+}
