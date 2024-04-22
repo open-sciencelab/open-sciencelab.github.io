@@ -16,10 +16,7 @@ permalink: "/groups_3d/"
 
 + 三维任务的目标包括通过计算方法准确地建模、理解和操纵物理世界的三维特征。这些任务旨在重建、解释和模拟从各种传感器（如摄像机和激光雷达）捕获的数据中的对象和环境的几何形状、外观和动态。应用领域包括虚拟和增强现实、机器人技术、自主导航、文化遗产保护、医学成像和产品设计等。总体目标是弥合数字与物理领域之间的差距，使机器能够像人类一样感知和与三维世界互动，从而增强技术在多个领域协助、增强和自动化任务的能力。 
 
-![1](/groups/AI43D.png)
-
 ---
-
 
 ## Group - Human-Centric Vision
 + We are dedicated to enabling AI to understand humans and their interactions with the world, aiming to have machines not only mimic human behaviors but also genuinely learn the ways humans perceive and understand the world, thereby mastering "human intelligence." Specific research areas include:
