@@ -70,6 +70,7 @@ function journalPubItemConstructor(pubitem) {
     .replace("TITLE", pubitem.title)
     .replace("JOURNAL", pubitem.publisher)
     .replace("IMAGE", pubitem.image)
+    .replace("LINK_GROUP", pubitem.link_group)
     .replace("ADDITIONAL_LINKS", additional_links)
     .replace(
       `<img style="width: 336Px;" alt="Wanli" src="" width="336px" height="200px">`,
