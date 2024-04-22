@@ -23,8 +23,31 @@ permalink: "/groups_all/"
 
 
 # 生命科学团队
-<div id="lifescience_list"></div>
+<div id=" lifescience_list"></div>
 
  
 <br>
+
+# 物质科学团队
+<div id="physicscience_list"></div>
+
+ 
+<br>
+
+# 天文科学团队
+<div id="astronomy_list"></div>
+
+ 
+<br>
+
+# 以人为中心的视觉计算团队
+<div id="human_list"></div>
+
+<br>
+
+# 空气动力学团队
+<div id="human_list"></div>
+
+<br>
+
 <script src="../assets/js/group_gen.js">

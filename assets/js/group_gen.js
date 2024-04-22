@@ -16,11 +16,19 @@ function readTextFile(file, callback) {
 let journal_data;
 let earth_data;
 let lifescience_data;
+let physicsciences_data;
+let astronomy_data;
+let human_data;
+let ai4air_data;
 readTextFile('/assets/js/data.json', function(text){
   let data = JSON.parse(text);
   journal_data = data.journals;
   earth_data = data.AI4earth;
   lifescience_data = data.lifesciences;
+  physicsciences_data = data.physicsciences;
+  astronomy_data = data.astronomy;
+  human_data = data.human;
+  ai4air_data = data.ai4air;
 });
 
 function journalPubItemConstructor(pubitem) {
@@ -85,14 +93,32 @@ for (pubitem of journal_data.reverse()) {
   journal_list.prepend(journalPubItemConstructor(pubitem))
 }
 
-//Conference list generation
+//earth list generation
 let earth_list = document.getElementById("earth_list");
 for (pubitem of earth_data.reverse()) {
   earth_list.prepend(journalPubItemConstructor(pubitem))
 }
 
-//lifescience list generation
-let lifescience_list = document.getElementById("lifescience_list");
-for (pubitem of lifescience_data.reverse()) {
-  lifescience_list.prepend(journalPubItemConstructor(pubitem))
+//physic science list generation
+let physicscience_list = document.getElementById("physicscience_list");
+for (pubitem of physicscience_data.reverse()) {
+  physicscience_list.prepend(journalPubItemConstructor(pubitem))
+}
+
+//astronomy list generation
+let astronomy_list = document.getElementById("astronomy_list");
+for (pubitem of astronomy_data.reverse()) {
+  astronomy_list.prepend(journalPubItemConstructor(pubitem))
+}
+
+//human list generation
+let human_list = document.getElementById("human_list");
+for (pubitem of human_data.reverse()) {
+  human_list.prepend(journalPubItemConstructor(pubitem))
+}
+
+//AI4Air list generation
+let ai4air_list = document.getElementById("ai4air_list");
+for (pubitem of ai4air_data.reverse()) {
+  ai4air_list.prepend(journalPubItemConstructor(pubitem))
 }
