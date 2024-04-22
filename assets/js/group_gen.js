@@ -15,7 +15,7 @@ function readTextFile(file, callback) {
 }
 let journal_data;
 let conference_data;
-readTextFile('/assets/js/data.json', function(text){
+readTextFile('https://raw.githubusercontent.com/openscience-lab/openscience-lab.github.io/main/assets/js/data.json', function(text){
   let data = JSON.parse(text);
   journal_data = data.journals;
   conference_data = data.conferences;
