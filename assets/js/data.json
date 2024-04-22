@@ -5,7 +5,7 @@
       "image": "/images/groups/AI43D.png",
       "authors": "Y. Tang, B. Li, M. Liu, B. Chen, Y. Wang, W. Ouyang.",
       "publisher": "IEEE Trans. Image Process. (TIP), accepted Jul., 2021.",
-      "link_group": "people"
+      "link_group": "/people"
     },
     {
       "title": "Improving weakly supervised temporal action localization by exploiting multi-resolution information in temporal domain",
