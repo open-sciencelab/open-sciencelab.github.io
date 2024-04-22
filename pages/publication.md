@@ -359,5 +359,3 @@ NeurIPS, 2023.
 [[code](https://github.com/OpenGVLab/LAMM)]
 [[demo](http://106.14.2.150:10005/)]
 
-<script src="../assets/js/pub_gen.js">
-   
