@@ -25,7 +25,7 @@ permalink: "/groups_all/"
 # 生命科学团队
 <div id=" lifescience_list"></div>
 
- 
+  
 <br>
 
 # 物质科学团队
