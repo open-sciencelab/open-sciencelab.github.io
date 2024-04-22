@@ -10,12 +10,6 @@ permalink: "/groups_all/"
 ---
 
 
-
-# 通用3D视觉团队
-<div id="journal_list"></div>
-
-<br>
-
 # 地球科学团队
 <div id="earth_list"></div>
 
@@ -40,13 +34,18 @@ permalink: "/groups_all/"
  
 <br>
 
-# 以人为中心的视觉计算团队
-<div id="human_list"></div>
+# 空气动力学团队
+<div id="ai4air_list"></div>
 
 <br>
 
-# 空气动力学团队
-<div id="ai4air_list"></div>
+# 通用3D视觉团队
+<div id="journal_list"></div>
+
+<br>
+
+# 以人为中心的视觉计算团队
+<div id="human_list"></div>
 
 <br>
 
