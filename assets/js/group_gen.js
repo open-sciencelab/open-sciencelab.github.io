@@ -35,7 +35,7 @@ function journalPubItemConstructor(pubitem) {
   <div>
     <div class="row">
       <div class="small-4 column">
-          <a href="FULL_TEXT">
+          <a href="https://google.com">
             <img src="IMAGE" style="width: 100%">
           </a>
       </div>
