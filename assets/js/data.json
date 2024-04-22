@@ -19,8 +19,7 @@
       "image": "/pages/groups/human.png",
       "link_group": "/groups_lifescience"
     }
-  ]
-  ,
+  ],
   "physicsciences": [ 
     {
       "title": "物质科学团队简介",
@@ -41,8 +40,7 @@
       "image": "/pages/groups/human.png",
       "link_group": "/groups_human"
     }
-  ]
-  ,
+  ],
   "ai4air": [ 
     {
       "title": "空气动力学简介",
