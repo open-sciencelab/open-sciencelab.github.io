@@ -17,7 +17,7 @@ permalink: "/groups_all/"
 <br>
 
 # Top-Tier Conference Publications
-<div id="conference_list"></div>
+<div id="earth_list"></div>
 
 <br>
 
