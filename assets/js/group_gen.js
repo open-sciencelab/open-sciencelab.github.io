@@ -23,7 +23,7 @@ readTextFile('https://raw.githubusercontent.com/openscience-lab/openscience-lab.
 
 function journalPubItemConstructor(pubitem) {
   function filter_mandatory_members(value, index, arr) {
-    let mandatory_members = ["authors", "title", "publisher", "image"];
+    let mandatory_members = ["authors", "title", "publisher", "image", "full_text"];
     return !mandatory_members.includes(value);
   }
   let all_members = Object.keys(pubitem);
@@ -35,7 +35,9 @@ function journalPubItemConstructor(pubitem) {
   <div>
     <div class="row">
       <div class="small-4 column">
-          <img src="IMAGE" style="width: 100%">
+          <a href="FULL_TEXT">
+            <img src="IMAGE" style="width: 100%">
+          </a>
       </div>
       <div class="small-8 column">
         <p>
