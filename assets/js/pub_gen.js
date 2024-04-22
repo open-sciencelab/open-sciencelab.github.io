@@ -15,7 +15,7 @@ function readTextFile(file, callback) {
 }
 let journal_data;
 let conference_data;
-readTextFile('./data.json', function(text){
+readTextFile('https://raw.githubusercontent.com/wlouyang/wlouyang.github.io/master/data.json', function(text){
   let data = JSON.parse(text);
   journal_data = data.journals;
   conference_data = data.conferences;
