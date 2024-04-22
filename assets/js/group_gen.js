@@ -15,7 +15,7 @@ function readTextFile(file, callback) {
 }
 let journal_data;
 let conference_data;
-readTextFile('https://raw.githubusercontent.com/wlouyang/wlouyang.github.io/master/data.json', function(text){
+readTextFile('https://raw.githubusercontent.com/openscience-lab/openscience-lab.github.io/main/assets/js/data.json', function(text){
   let data = JSON.parse(text);
   journal_data = data.journals;
   conference_data = data.conferences;
@@ -23,7 +23,7 @@ readTextFile('https://raw.githubusercontent.com/wlouyang/wlouyang.github.io/mast
 
 function journalPubItemConstructor(pubitem) {
   function filter_mandatory_members(value, index, arr) {
-    let mandatory_members = ["authors", "title", "publisher", "image"];
+    let mandatory_members = ["authors", "title", "publisher", "image", "full_text", "link_group"];
     return !mandatory_members.includes(value);
   }
   let all_members = Object.keys(pubitem);
@@ -35,7 +35,9 @@ function journalPubItemConstructor(pubitem) {
   <div>
     <div class="row">
       <div class="small-4 column">
-          <img src="IMAGE" style="width: 100%">
+          <a href="LINK_GROUP">
+            <img src="IMAGE" style="width: 100%">
+          </a>
       </div>
       <div class="small-8 column">
         <p>
@@ -68,6 +70,7 @@ function journalPubItemConstructor(pubitem) {
     .replace("TITLE", pubitem.title)
     .replace("JOURNAL", pubitem.publisher)
     .replace("IMAGE", pubitem.image)
+    .replace("LINK_GROUP", pubitem.link_group)
     .replace("ADDITIONAL_LINKS", additional_links)
     .replace(
       `<img style="width: 336Px;" alt="Wanli" src="" width="336px" height="200px">`,
@@ -76,40 +79,6 @@ function journalPubItemConstructor(pubitem) {
 
   return obj.content.firstElementChild;
 }
-
-// function journalPubItemConstructor(pubitem) {
-//   let obj;
-//   obj = document.createElement('template');
-//   let html_template = `
-//     <div>
-//       <div class="row">
-//         <div class="small-4 column">
-//             <img src="IMAGE" style="width: 100%">
-//         </div>
-//         <div class="small-8 column">
-//           <p>
-//             <b>TITLE</b>
-//             <br>
-//             AUTHORS
-//             <br> 
-//             JOURNAL
-//             <br>
-//           </p>
-//         </div>
-          
-//       </div>
-//       <hr>
-//     </div>
-//   `;
-//   obj.innerHTML = html_template
-//   .replace("AUTHORS", pubitem.authors)
-//   .replace("TITLE", pubitem.title)
-//   .replace("JOURNAL", pubitem.publisher)
-//   .replace("IMAGE", pubitem.image)
-//   .replace(`<img style="width: 336Px;" alt="Wanli" src="" width="336px" height="200px">`, "");
-
-//   return obj.content.firstElementChild;
-// }
 
 function conferencePubItemConstructor(pubitem) {
   function filter_mandatory_members(value, index, arr) {
