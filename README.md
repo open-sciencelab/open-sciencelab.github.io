@@ -1,4 +1,4 @@
-# Homepage for the Department of AI for Science at Shanghai Artificial Intelligence Laboratory.
+# Department of AI for Science at Shanghai Artificial Intelligence Laboratory.
 
 ### Main pages:
 
